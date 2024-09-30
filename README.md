@@ -1,22 +1,27 @@
 # gantt
 
 
-Objective 1: Sense environment changes, with a focus on water and ice.
-– Utilise resonance response in the presence of droplets, ice crystals and piezoelectric
-acoustic waves.
-• Objective 2: Measurement and detection of ice cracks.
-– Draw parallels between photovoltaic defect detection.
-• Aim: Develop a holistic design framework to equip a multi-functional [MM-SAW] device
-with sensing capability.
-Microwave to Infrared:
-• Objective 1: Reject excess sub-bandgap photons by employing pass and stop bands;
-passive cooling.
-• Objective 2: Implement active thermal capture for thermoelectric conversion through
-photon recycling.
-• Aim: Expand the framework - design, fabrication, characterisation.
-Infrared to Visible:
-• Objective 1: Simulate enhanced photovoltaic efficiency through enhanced light absorption,
-amorphous silicon is a suitable device-coupling-candidate.
-• Objective 2: Investigate feasibility of enhanced efficiency through light capture and
-(non-lossy) frequency conversion processes i.e. SHG.
-• Aim: Expand the framework - exploration and design.
+
+Design and Fabricate ‘Scaled Up’ Devices (Year 1 and 2):
+
+Aim: Create a dataset of metasurface designs and demonstrate experimental validation  
+
+Objective 1a: Using forward design, create simulations well matched to external quantum efficiency measurements for a variety of PV cells beginning with Si and GaAs.
+
+Quantify the match between target and attained absorptivity response curves in terms of overlapping areas and mean square error.
+
+Objective 1b: Fabricate three proposed designs in year 1 (2024) using photolithography and other readily available techniques.
+
+Use results from completed Metamaterial-SAW experiment to propose suitable sensing experiments for these devices.
+
+Objective 2: Through simulation, demonstrate correspondence between scaled up and scaled down versions of unit cell geometries.
+
+Seek to represent the mathematical relationship between geometrical features and resonant frequencies (wideband or narrowband), thereby demonstrating tunability.
+
+‘Scaled down’ Fabrication and Characterisation (Year 2.5 to Year 3.5):
+
+Aim: Expand the framework - design, fabrication, characterisation.
+
+Objective 3: By end of year 3 (2026) fabricate three nano-structured metasurface designs using Nano Imprint Lithography (NIL), Focused-Ion Beam (FIB), or Electron Beam Lithography (EBL).
+
+Objective 4: Characterise nanoscale structures and measure suppression of thermalisation loss in terms of efficiency gains of the metasurface-PV system compared to the standalone PV cells.
